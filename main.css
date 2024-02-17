@@ -1,0 +1,52 @@
+body{
+    display: flex;
+    background-color: aqua;
+}
+th, td, table{
+    background-color: aqua;
+    border: 3px solid rgb(11, 177, 39);
+    padding: 2px;
+    margin-top: 400px;
+    zoom: 110%;
+    color: rgb(0, 0, 0);
+}
+
+table{
+   width: 100%;
+}
+.tbalee{
+    width: 100vw;
+}
+video{
+    width: 400px;
+    height: auto;
+    border: 5px solid green;
+}
+.Animation{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 135px;
+    margin-top: 30px;
+}
+audio{
+    border: 2px solid green;
+    border-radius: 26px;
+}
+.mic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 210px;
+}
+img{
+    width: 50px;
+    border-radius: 50%;
+}
+
+a{
+    border: 1px solid green;
+}
+nav{
+    margin-left: 130px;
+}
